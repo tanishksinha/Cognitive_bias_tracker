@@ -32,7 +32,7 @@ The system benchmarks users against four key cognitive dimensions:
 4.  **AOT (Actively Open-minded Thinking):** Measures willingness to consider contradictory evidence.
 
 ### Bayesian Engine
-The system calculates bias probability ($P(B|D)$) using:
+The system calculates bias probability ($$P(B|D)$$) using:
 $$P(B|D) = \frac{P(D|B) \cdot P(B)}{P(D)}$$
 *   **$P(B)$ (The Prior):** Your initial profile scores.
 *   **$P(D|B)$ (The Likelihood):** Behavioral signals detected during decision logging.
